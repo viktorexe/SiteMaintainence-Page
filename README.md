@@ -18,7 +18,7 @@ This project provides a simple yet elegant **"Under Maintenance"** page that can
 
 ## 📌 Notes  
 
-- The "TaskNext" text is just a placeholder—replace it with your actual website name.  
+- Replace it with your actual website name.  
 - The UI can be further improved by adjusting animations, fonts, or additional features.  
 
 ## 🎨 Preview  
